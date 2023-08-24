@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Game Funding Company*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tue Le Minh Do**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Funding Company** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -23,16 +23,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://imgur.com/gallery/4VSdk3G)
-<img src='https://imgur.com/gallery/4VSdk3G' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='[https://imgur.com/gallery/4VSdk3G](https://github.com/tuedolm/web102_prework/blob/main/codepath-web102-prework.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
 Macbook screen recorder and ezgif.com
+
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The most challenges part for me is definitely brush up on reduce and ternary operator
 ## License
 
     Copyright [2023] [Tue Le Minh Do]
